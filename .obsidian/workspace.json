@@ -30,43 +30,21 @@
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "e820de3b002dd0d8",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "1262db166a088bd8",
+            "id": "1796876fd8e3900b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Virtualization/01. Introduction.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
-      },
-      {
-        "id": "37b20ba77afbfaa1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fb721f1dbd9c3860",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Z. Media/OSTEP/cpu-mechanisms.pdf"
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z. Media/OSTEP/cpu-mechanisms.pdf",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z. Media/OSTEP/cpu-mechanisms.pdf",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z. Media/OSTEP/cpu-mechanisms.pdf"
+                "file": "README.md"
               }
             }
           }
@@ -196,25 +174,40 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "fb721f1dbd9c3860",
+  "active": "1796876fd8e3900b",
   "lastOpenFiles": [
     "01 - Virtualization/02. Processes.md",
-    "02. Processes.pdf",
-    "Z. Media/OSTEP/cpu-mechanisms.pdf",
-    "Z. Media/OSTEP/cpu-api.pdf",
-    "01 - Virtualization/01. Introduction.md",
+    "README.md",
+    "export/01-01. Introduction/plugin/chalkboard/img/whiteboard.png",
+    "export/01-01. Introduction/plugin/chalkboard/img/chalk-yellow.png",
+    "export/01-01. Introduction/plugin/chalkboard/img/sponge.png",
+    "export/01-01. Introduction/plugin/chalkboard/img/chalk-white.png",
+    "export/01-01. Introduction/plugin/chalkboard/img/chalk-red.png",
+    "export/01-01. Introduction/plugin/chalkboard/img/chalk-purple.png",
+    "export/01-01. Introduction/plugin/chalkboard/img/chalk-orange.png",
+    "export/01-01. Introduction/plugin/chalkboard/img/chalk-green.png",
+    "export/01-01. Introduction/plugin/chalkboard/img/chalk-blue.png",
+    "export/01-01. Introduction/plugin/chalkboard/img/boardmarker-yellow.png",
+    "export/01-01. Introduction/plugin/chalkboard/img",
+    "export/01-01. Introduction/plugin/chalkboard/README.md",
+    "export/01-01. Introduction/plugin/chalkboard/_style.css",
+    "export/01-01. Introduction/plugin/chalkboard/style.css",
+    "export/01-01. Introduction/plugin/chalkboard/plugin.js",
+    "export/01-01. Introduction/plugin/chalkboard/plugin (copy).js",
+    "export/01-01. Introduction/plugin/chalkboard",
+    "export/01-01. Introduction/plugin/chart/README.md",
+    "export/01-01. Introduction/plugin/chart/plugin.js",
+    "export/01-01. Introduction/plugin/chart/chart.min.js",
+    "export/01-01. Introduction/plugin/chart",
+    "export/01-01. Introduction/plugin/customcontrols/style.css",
+    "export/01-01. Introduction/plugin/customcontrols/README.md",
+    "export/01-01. Introduction/plugin/menu/README.md",
+    "export/01-01. Introduction/plugin/menu/CONTRIBUTING.md",
     "Y. Slides/01-01. Introduction.md",
-    "Z. Media/OSTEP/cpu-intro.pdf",
-    "Z. Media/OSTEP/intro.pdf",
-    "Z. Media/OSTEP/dialogue-virtualization.pdf",
+    "01 - Virtualization/01. Introduction.md",
     "Y. Slides/assets/slide-templates/tpl-astate-base.md",
     "Y. Slides/assets/slide-templates/tpl-astate-title.md",
     "Y. Slides/assets/slide-templates/tpl-astate-2-col.md",
-    "Y. Slides/assets/slide-templates",
-    "Y. Slides/assets/images/State Building.jpg",
-    "Y. Slides/assets/images",
-    "Y. Slides/assets",
-    "Y. Slides",
     "Z. Media/OSTEP/OSTEP.md"
   ]
 }
