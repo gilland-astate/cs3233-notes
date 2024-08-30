@@ -8,19 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "38da68bf4b18c82e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Y. Slides/01-01. Introduction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "86ad23e9a8beb9e7",
+            "id": "67aa4e632d8bfb62",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1796876fd8e3900b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "01 - Virtualization/02. Processes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "01 - Virtualization/02. Processes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "01 - Virtualization/02. Processes.md"
               }
             }
           }
@@ -174,10 +149,27 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "1796876fd8e3900b",
+  "active": "67aa4e632d8bfb62",
   "lastOpenFiles": [
+    "W. Homeworks/01- Process Intro/Instructions.md",
+    "W. Homeworks/01- Process Intro/README.md",
+    "W. Homeworks/01- Process Intro/README-process-run.md",
     "01 - Virtualization/02. Processes.md",
+    "Y. Slides/01-01. Introduction.md",
+    "W. Homeworks/01- Process Intro/README-process-run",
+    "W. Homeworks/01- Process Intro/process-run.py",
     "README.md",
+    "W. Homeworks/01- Process Intro",
+    "W. Homeworks",
+    "X.  Projects",
+    "Z. Media/OSTEP/OSTEP.md",
+    "Z. Media/OSTEP/Images/Untitled",
+    "Z. Media/OSTEP/images",
+    "Z. Media/OSTEP/images/Figure-4.1-Loading.png",
+    "01 - Virtualization/01. Introduction.md",
+    "Z. Media/OSTEP/cpu-intro.pdf",
+    "Z. Media/OSTEP/preface.pdf",
+    "Z. Media/OSTEP/intro.pdf",
     "export/01-01. Introduction/plugin/chalkboard/img/whiteboard.png",
     "export/01-01. Introduction/plugin/chalkboard/img/chalk-yellow.png",
     "export/01-01. Introduction/plugin/chalkboard/img/sponge.png",
@@ -186,28 +178,13 @@
     "export/01-01. Introduction/plugin/chalkboard/img/chalk-purple.png",
     "export/01-01. Introduction/plugin/chalkboard/img/chalk-orange.png",
     "export/01-01. Introduction/plugin/chalkboard/img/chalk-green.png",
-    "export/01-01. Introduction/plugin/chalkboard/img/chalk-blue.png",
-    "export/01-01. Introduction/plugin/chalkboard/img/boardmarker-yellow.png",
-    "export/01-01. Introduction/plugin/chalkboard/img",
     "export/01-01. Introduction/plugin/chalkboard/README.md",
-    "export/01-01. Introduction/plugin/chalkboard/_style.css",
-    "export/01-01. Introduction/plugin/chalkboard/style.css",
-    "export/01-01. Introduction/plugin/chalkboard/plugin.js",
-    "export/01-01. Introduction/plugin/chalkboard/plugin (copy).js",
-    "export/01-01. Introduction/plugin/chalkboard",
     "export/01-01. Introduction/plugin/chart/README.md",
-    "export/01-01. Introduction/plugin/chart/plugin.js",
-    "export/01-01. Introduction/plugin/chart/chart.min.js",
-    "export/01-01. Introduction/plugin/chart",
-    "export/01-01. Introduction/plugin/customcontrols/style.css",
     "export/01-01. Introduction/plugin/customcontrols/README.md",
     "export/01-01. Introduction/plugin/menu/README.md",
     "export/01-01. Introduction/plugin/menu/CONTRIBUTING.md",
-    "Y. Slides/01-01. Introduction.md",
-    "01 - Virtualization/01. Introduction.md",
     "Y. Slides/assets/slide-templates/tpl-astate-base.md",
     "Y. Slides/assets/slide-templates/tpl-astate-title.md",
-    "Y. Slides/assets/slide-templates/tpl-astate-2-col.md",
-    "Z. Media/OSTEP/OSTEP.md"
+    "Y. Slides/assets/slide-templates/tpl-astate-2-col.md"
   ]
 }

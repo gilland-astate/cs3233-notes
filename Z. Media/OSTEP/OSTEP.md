@@ -1,1 +1,1 @@
-*For the latest version of these documents you may find them on the OSTEP homepage at: https://pages.cs.wisc.edu/~remzi/OSTEP/, however due to annotating the pdfs they do have to be available locally.*
+Images and information found within is courtesy of [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/).
