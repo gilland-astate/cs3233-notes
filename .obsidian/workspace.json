@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "51f1355a01c27962",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Virtualization/03. Scheduling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Virtualization/02. Processes.md",
+                "file": "01 - Virtualization/03. Scheduling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Virtualization/02. Processes.md",
+                "file": "01 - Virtualization/03. Scheduling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Virtualization/02. Processes.md"
+                "file": "01 - Virtualization/03. Scheduling.md"
               }
             }
           }
@@ -149,13 +162,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "67aa4e632d8bfb62",
+  "active": "51f1355a01c27962",
   "lastOpenFiles": [
+    "01 - Virtualization/02. Processes.md",
+    "01 - Virtualization/03. Scheduling.md",
+    "Y. Slides/01-01. Introduction.md",
     "W. Homeworks/01- Process Intro/Instructions.md",
     "W. Homeworks/01- Process Intro/README.md",
     "W. Homeworks/01- Process Intro/README-process-run.md",
-    "01 - Virtualization/02. Processes.md",
-    "Y. Slides/01-01. Introduction.md",
     "W. Homeworks/01- Process Intro/README-process-run",
     "W. Homeworks/01- Process Intro/process-run.py",
     "README.md",
