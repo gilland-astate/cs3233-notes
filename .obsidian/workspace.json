@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Virtualization/03. Scheduling.md",
+                "file": "01 - Virtualization/04. Memory Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Virtualization/03. Scheduling.md",
+                "file": "01 - Virtualization/04. Memory Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Virtualization/03. Scheduling.md",
+                "file": "01 - Virtualization/04. Memory Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Virtualization/03. Scheduling.md"
+                "file": "01 - Virtualization/04. Memory Management.md"
               }
             }
           }
@@ -164,8 +164,11 @@
   },
   "active": "51f1355a01c27962",
   "lastOpenFiles": [
-    "01 - Virtualization/02. Processes.md",
     "01 - Virtualization/03. Scheduling.md",
+    "01 - Virtualization/04. Memory Management.md",
+    "01 - Virtualization/05. Paging.md",
+    "01 - Virtualization/06. Beyond Physical Memory.md",
+    "01 - Virtualization/02. Processes.md",
     "Y. Slides/01-01. Introduction.md",
     "W. Homeworks/01- Process Intro/Instructions.md",
     "W. Homeworks/01- Process Intro/README.md",
