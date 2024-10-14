@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Virtualization/05. Paging.md",
+                "file": "01 - Virtualization/06. Beyond Physical Memory.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Virtualization/05. Paging.md",
+                "file": "01 - Virtualization/06. Beyond Physical Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Virtualization/05. Paging.md",
+                "file": "01 - Virtualization/06. Beyond Physical Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Virtualization/05. Paging.md"
+                "file": "01 - Virtualization/06. Beyond Physical Memory.md"
               }
             }
           }
@@ -149,10 +149,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "975a65a5ffc0699c",
+  "active": "67aa4e632d8bfb62",
   "lastOpenFiles": [
-    "Z. Media/OSTEP/images/3-level Address.png",
     "01 - Virtualization/05. Paging.md",
+    "Z. Media/OSTEP/images/3-level Address.png",
     "01 - Virtualization/02. Processes.md",
     "Z. Media/OSTEP/images/Figure-20.5-PageDirectory.png",
     "Pasted image 20241011070841.png",
