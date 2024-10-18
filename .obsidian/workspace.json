@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "8daf730908463205",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a343801b81f77dd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Virtualization/Study Guide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Virtualization/06. Beyond Physical Memory.md",
+                "file": "01 - Virtualization/Study Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Virtualization/06. Beyond Physical Memory.md",
+                "file": "01 - Virtualization/Study Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Virtualization/06. Beyond Physical Memory.md"
+                "file": "01 - Virtualization/Study Guide.md"
               }
             }
           }
@@ -149,21 +167,24 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "67aa4e632d8bfb62",
+  "active": "a343801b81f77dd8",
   "lastOpenFiles": [
+    "01 - Virtualization/06. Beyond Physical Memory.md",
+    "01 - Virtualization/Study Guide.md",
     "01 - Virtualization/05. Paging.md",
-    "Z. Media/OSTEP/images/3-level Address.png",
+    "01 - Virtualization/04. Memory Management.md",
+    "01 - Virtualization/03. Scheduling.md",
     "01 - Virtualization/02. Processes.md",
+    "01 - Virtualization/01. Introduction.md",
+    "Z. Media/OSTEP/images/Figure-21.1-SwapSpace.png",
+    "Z. Media/OSTEP/images/3-level Address.png",
     "Z. Media/OSTEP/images/Figure-20.5-PageDirectory.png",
     "Pasted image 20241011070841.png",
     "Z. Media/OSTEP/images/AddressBreakdown.png",
     "Z. Media/OSTEP/images/Figure-20.4-AddressSpace.png",
     "Z. Media/OSTEP/images/MIPS TLB Entry.png",
     "Z. Media/OSTEP/images/pagetable_instruction.png",
-    "01 - Virtualization/06. Beyond Physical Memory.md",
-    "01 - Virtualization/04. Memory Management.md",
     "README.md",
-    "01 - Virtualization/03. Scheduling.md",
     "Y. Slides/01-01. Introduction.md",
     "W. Homeworks/01- Process Intro/Instructions.md",
     "W. Homeworks/01- Process Intro/README.md",
@@ -177,12 +198,10 @@
     "Z. Media/OSTEP/Images/Untitled",
     "Z. Media/OSTEP/images",
     "Z. Media/OSTEP/images/Figure-4.1-Loading.png",
-    "01 - Virtualization/01. Introduction.md",
     "Z. Media/OSTEP/cpu-intro.pdf",
     "Z. Media/OSTEP/preface.pdf",
     "Z. Media/OSTEP/intro.pdf",
     "export/01-01. Introduction/plugin/chalkboard/img/whiteboard.png",
-    "export/01-01. Introduction/plugin/chalkboard/img/chalk-yellow.png",
     "export/01-01. Introduction/plugin/chalkboard/README.md",
     "export/01-01. Introduction/plugin/chart/README.md",
     "export/01-01. Introduction/plugin/customcontrols/README.md",
