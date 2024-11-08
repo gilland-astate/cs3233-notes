@@ -16,7 +16,9 @@
                 "file": "01 - Virtualization/06. Beyond Physical Memory.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "06. Beyond Physical Memory"
             }
           }
         ]
@@ -31,10 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Virtualization/Study Guide.md",
+                "file": "02 - Concurrency/01. Threads.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "01. Threads"
             }
           }
         ]
@@ -57,7 +61,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -72,7 +78,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -80,7 +88,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -103,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Virtualization/Study Guide.md",
+                "file": "01 - Virtualization/03. Scheduling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +121,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 03. Scheduling"
             }
           },
           {
@@ -120,10 +132,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Virtualization/Study Guide.md",
+                "file": "01 - Virtualization/03. Scheduling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 03. Scheduling"
             }
           },
           {
@@ -134,7 +148,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -143,8 +159,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Virtualization/Study Guide.md"
-              }
+                "file": "01 - Virtualization/03. Scheduling.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 03. Scheduling"
             }
           }
         ]
@@ -169,11 +187,15 @@
   },
   "active": "a343801b81f77dd8",
   "lastOpenFiles": [
-    "01 - Virtualization/06. Beyond Physical Memory.md",
+    "README.md",
+    "02 - Concurrency/01. Threads.md",
+    "02 - Concurrency",
+    "Z. Media/OSTEP/OSTEP.md",
+    "01 - Virtualization/03. Scheduling.md",
     "01 - Virtualization/Study Guide.md",
+    "01 - Virtualization/06. Beyond Physical Memory.md",
     "01 - Virtualization/05. Paging.md",
     "01 - Virtualization/04. Memory Management.md",
-    "01 - Virtualization/03. Scheduling.md",
     "01 - Virtualization/02. Processes.md",
     "01 - Virtualization/01. Introduction.md",
     "Z. Media/OSTEP/images/Figure-21.1-SwapSpace.png",
@@ -184,7 +206,6 @@
     "Z. Media/OSTEP/images/Figure-20.4-AddressSpace.png",
     "Z. Media/OSTEP/images/MIPS TLB Entry.png",
     "Z. Media/OSTEP/images/pagetable_instruction.png",
-    "README.md",
     "Y. Slides/01-01. Introduction.md",
     "W. Homeworks/01- Process Intro/Instructions.md",
     "W. Homeworks/01- Process Intro/README.md",
@@ -194,13 +215,11 @@
     "W. Homeworks/01- Process Intro",
     "W. Homeworks",
     "X.  Projects",
-    "Z. Media/OSTEP/OSTEP.md",
     "Z. Media/OSTEP/Images/Untitled",
     "Z. Media/OSTEP/images",
     "Z. Media/OSTEP/images/Figure-4.1-Loading.png",
     "Z. Media/OSTEP/cpu-intro.pdf",
     "Z. Media/OSTEP/preface.pdf",
-    "Z. Media/OSTEP/intro.pdf",
     "export/01-01. Introduction/plugin/chalkboard/img/whiteboard.png",
     "export/01-01. Introduction/plugin/chalkboard/README.md",
     "export/01-01. Introduction/plugin/chart/README.md",
