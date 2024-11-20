@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Concurrency/02. Condition Variables.md",
+                "file": "02 - Concurrency/03. Semaphores and Deadlocks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02. Condition Variables"
+              "title": "03. Semaphores and Deadlocks"
             }
           }
         ]
@@ -187,8 +187,9 @@
   },
   "active": "67aa4e632d8bfb62",
   "lastOpenFiles": [
-    "02 - Concurrency/01. Threads.md",
     "02 - Concurrency/02. Condition Variables.md",
+    "02 - Concurrency/03. Semaphores and Deadlocks.md",
+    "02 - Concurrency/01. Threads.md",
     "01 - Virtualization/06. Beyond Physical Memory.md",
     "README.md",
     "02 - Concurrency",
