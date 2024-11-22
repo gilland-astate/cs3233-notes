@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Concurrency Problems.md",
+                "file": "02 - Concurrency/04. Concurrency Problems.md",
                 "mode": "source",
                 "source": false
               },
@@ -200,10 +200,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "895205809183f074",
+  "active": "975a65a5ffc0699c",
   "lastOpenFiles": [
     "02 - Concurrency/03. Semaphores and Deadlocks.md",
-    "04. Concurrency Problems.md",
+    "02 - Concurrency/04. Concurrency Problems.md",
     "02 - Concurrency/01. Threads.md",
     "02 - Concurrency/02. Condition Variables.md",
     "01 - Virtualization/06. Beyond Physical Memory.md",
